@@ -1,3 +1,4 @@
 # Purpose of this Folder
 
-This folder should contain the solution to the exercise. This would be added to a concept walking through the solution with the student for this exercise.
+This folder contains solution to exercises of Components lesson, only typescript files and template files are shared.
+
