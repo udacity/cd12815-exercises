@@ -1,0 +1,8 @@
+<h3>{{ post.body }}</h3>
+<p> {{ post.id }} </p>
+<p> {{ post.title }}</p>
+<p> {{ post.votes }} </p>
+<button (click)="upvote(post)">Upvote</button>
+<button (click)="downvote(post)">Downvote</button>
+<button (click)="hide(post)">Hide</button>
+<br>
